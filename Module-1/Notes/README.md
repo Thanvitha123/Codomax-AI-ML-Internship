@@ -1,9 +1,10 @@
-# Python Programs
+# Learning Notes
 
-This folder contains beginner Python programs.
+This folder contains notes for Module 1.
 
-Programs:
-- Variables
-- Loops
-- Functions
-- Lists
+Topics:
+- Introduction to AI
+- Machine Learning
+- Deep Learning
+- AI Applications
+- Python Basics
